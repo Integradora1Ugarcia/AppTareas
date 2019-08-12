@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="status">
+        <item>--Prioridad de la tarea--</item>
+        <item>Pendiente</item>
+        <item>Concluida</item>
+        <item>Cancelada</item>
+
+    </string-array>
+
+
+</resources>
